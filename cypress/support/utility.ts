@@ -6,6 +6,8 @@ class Utility {
         let url = "https://app.timetac.com/";
         return url;
     }
+
+    
 }
 
 export default new Utility

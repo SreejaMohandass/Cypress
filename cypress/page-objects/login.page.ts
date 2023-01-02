@@ -14,4 +14,5 @@ export class Login{
     signinBtn(){
         return cy.get('button[data-testid="login.sign-in"]').first();
     }
+    
   }
